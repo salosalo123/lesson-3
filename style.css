@@ -1,0 +1,119 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+body {
+  width: 1440px;
+  height: 1530px;
+  background-color: #ffffff;
+}
+.header {
+  width: 1180px;
+  height: 96px;
+  margin: 38px 130px 0px 130px;
+  background-color: aqua;
+}
+.logo {
+  width: 180px;
+  height: 96px;
+  margin: 1px 300px 0 0;
+  vertical-align: top;
+}
+nav,
+nav ul li {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+nav {
+  width: 469px;
+  height: 26px;
+  margin-left: 220px;
+  padding-top: 20px;
+}
+.nav {
+  font-family: "Inter";
+  width: 70px;
+  height: 24px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24.2px;
+  color: #2414db;
+  margin-left: 60px;
+}
+
+.active {
+  color: #f50808;
+}
+
+/* main section1 */
+.imag-rectangle {
+  width: 780px;
+  height: 116px;
+  margin: 120px 0 120px 130px;
+  font-family: "Inter";
+  font-weight: 400;
+}
+.image1 {
+  width: 1440px;
+  height: 478px;
+}
+.welcome {
+  width: 210;
+  height: 44px;
+  font-size: 36px;
+  line-height: 43.57px;
+  color: #17326e;
+  margin-bottom: 24px;
+}
+.text-welcome {
+  width: 780px;
+  height: 48px;
+  font-size: 20px;
+  line-height: 24.2px;
+  color: #090346;
+}
+
+/* section cars 3 */
+.cars3 {
+  width: 1440px;
+  height: 439px;
+  background-color: #ebebf0;
+  padding: 121px 40px 121px 130px;
+}
+.carimg {
+  margin-right: 20px;
+}
+
+/* section footer */
+
+.footer {
+  width: 1440px;
+  height: 161px;
+  background-color: #19126b;
+  display: inline-block;
+}
+.logos {
+  vertical-align: middle;
+  margin-left: 130px;
+}
+
+.logo {
+  margin: 50px 20px 51px 0px;
+  width: 60px;
+  height: 60px;
+}
+
+footer div {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.copyright {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19.36px;
+  color: #fff;
+  font-size: 16px;
+  margin-left: 600px;
+  margin-right: 130px;
+}
